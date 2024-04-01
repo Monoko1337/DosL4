@@ -19,7 +19,7 @@
 
 # How to use
 
-- git clone https://github.com/xPloits3c/AnonSecIta-DDoS.git
+- git clone https://github.com/Monoko1337/DosL4/tree/main
 - cd DosL4
 - python3 Main.py
 
