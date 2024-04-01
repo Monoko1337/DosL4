@@ -1,6 +1,12 @@
 # DosL4
 - Programming Language - Python 3
+# How to use
 
+- git clone https://github.com/Monoko1337/DosL4.git
+- cd DosL4
+- python Main.py
+
+  
 # Don't Attack websites without the owners consent.
 - âš ï¸ The use of this tool to attack targets without prior mutual consent is illegal.
 - âš ï¸ It is the responsibility of the end user to comply with all applicable local, state, and federal laws.
@@ -16,11 +22,5 @@
 
 ![anonsecitaddos l7l4](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/f86b3e0e-f533-451c-adb0-484537d8c2d0)
 ![dattackproxy](https://github.com/xPloits3c/AnonSecIta-DDoS/assets/153435050/085d6db6-1434-4f01-87de-069079c151ab)
-
-# How to use
-
-- git clone https://github.com/Monoko1337/DosL4/tree/main
-- cd DosL4
-- python3 Main.py
 
 # If u Like the project, leave a star on the repository!
